@@ -13,6 +13,20 @@
             "database": "myshop",
             "username": "jayanth",
             "password": "1234"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "practicesql",
+            "database": "mydata",
+            "username": "jk",
+            "password": ""
         }
     ]
 }
